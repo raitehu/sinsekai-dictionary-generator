@@ -1,0 +1,17 @@
+# 人名
+- type: '' # 人名(anthroponym), 曲名(songTitle), その他(others)のどれか
+  dics:
+    # ここからワンセット
+    - headwords:
+      - 変換したい元の言葉1(ex. しんせかい)
+      - ......
+      - ...
+      expressions:
+      - 変換後の言葉1(ex. 深脊界)
+      - 変換後の言葉2(ex. SINSEKAI)
+      - 変換後の言葉3(ex. シンセカイ)
+    # ここまででワンセット
+    - headwords:
+      - 変換したい元の言葉1(ex. ゔぁりす)
+      expressions:
+      - 変換後の言葉1(ex. VALIS)

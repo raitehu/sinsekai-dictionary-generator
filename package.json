@@ -1,0 +1,13 @@
+{
+  "name": "sinsekai-dictionary-generator",
+  "version": "1.0.0",
+  "description": "Generate dictionary files for macOS and GoogleIME from YAML file.",
+  "main": "index.js",
+  "author": "KIRISHIMA Raitehu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.8",
+    "js-yaml": "^4.1.0",
+    "typescript": "^4.8.4"
+  }
+}

@@ -1,0 +1,51 @@
+# 人名
+- type: 'anthroponym'
+  dics:
+    - headwords:
+      - ちの
+      expressions:
+      - チノ
+      - CHINO
+      - チノ先生
+      - チノ先
+      - チ先
+    - headwords:
+      - みゅー
+      expressions:
+      - ミュー
+      - MYU
+      - ママ
+      - 武士
+    - headwords:
+      - ねふぃ
+      - ねふぃー
+      expressions:
+      - ネフィ
+      - NEFFY
+      - ﾈﾌｨ=ｻｰﾝ
+    - headwords:
+      - にな
+      expressions:
+      - ニナ
+      - NINA
+      - チャンニナ
+    - headwords:
+      - らら
+      expressions:
+      - ララ
+      - RARA
+      - ラ王
+      - ラ王様
+    - headwords:
+      - ゔぃって
+      expressions:
+      - ヴィッテ
+      - VITTE
+      - ゔぃ
+    - headwords:
+      - そーと
+      - そうと
+      expressions:
+      - ソート
+      - SOUGHT
+      - 操桃
